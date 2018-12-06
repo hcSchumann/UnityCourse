@@ -1,0 +1,2 @@
+/Users/blastoise/Projects/UnityCourse/Class 3/Temp/UnityVS_obj/Debug/Class 3.csprojAssemblyReference.cache
+/Users/blastoise/Projects/UnityCourse/Class 3/Temp/UnityVS_obj/Debug/Class 3.csproj.CoreCompileInputs.cache
